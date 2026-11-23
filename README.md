@@ -1,5 +1,7 @@
 # workflow-skills
 
+Read this in [繁體中文](README.zh-TW.md).
+
 Nine learned workflow skills for Muse — verification, approval, and delivery discipline, learned the hard way.
 
 These are not tutorials. Each skill is a short rule set written after a real mistake: a delivery made from memory, an approval claimed without checking, a build reported working that was never run.
