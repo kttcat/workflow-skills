@@ -4,7 +4,7 @@ Read this in [繁體中文](README.zh-TW.md).
 
 Nine learned workflow skills for Muse — verification, approval, and delivery discipline, learned the hard way.
 
-These are not tutorials. Each skill is a short rule set written after a real mistake: a delivery made from memory, an approval claimed without checking, a build reported working that was never run.
+These are not tutorials. Eight of them are short rule sets written after a real mistake: a delivery made from memory, an approval claimed without checking, a build reported working that was never run. The ninth, apple-design, is a long-form distillation of Apple's WWDC design talks, not a mistake-driven rule set.
 
 ## Skills
 
@@ -21,6 +21,14 @@ These are not tutorials. Each skill is a short rule set written after a real mis
 ## Use
 
 Copy any skill folder into your own skills directory (e.g. `~/.claude/skills/` or your project's skills folder). Each skill is one `SKILL.md` with frontmatter (`name` + `description`).
+
+## Related projects
+
+Three parts of one workflow — rules, then tiers, then a paper trail:
+
+- [workflow-skills](https://github.com/kttcat/workflow-skills) — the rules: this repo.
+- [tiered-review](https://github.com/kttcat/tiered-review) — the tiers: three-tier approval framework for AI agents.
+- [sqlite-audit-log](https://github.com/kttcat/sqlite-audit-log) — the paper trail: append-only SQLite audit log.
 
 ## License
 

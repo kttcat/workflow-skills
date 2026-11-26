@@ -11,7 +11,7 @@ description: Check a generated image, map, characterisation or roster against it
 
 - Use a real outline for a place, an original file for a brand mark, verified facts for a band or a person, a canonical card or roster for a character, and the tracker for a countdown or a total.
 
-- Read the source yourself with muse.read or browser.browse before you start.
+- Read the source yourself with muse.read, browser.open or browser.search before you start.
 
 - Treat memory, a prior summary and a search snippet as leads and not as proof.
 
