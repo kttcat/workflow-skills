@@ -1,8 +1,7 @@
 ---
 name: verify-official-list-item-by-item
-description: Check every item in an official or brochure list against its primary source before presenting it, so required, optional, and recommended items are never conflated.
+description: "Use when a claim lists items from an official source: open the primary document and check each item yourself before reporting it verified."
 ---
-
 # Verify an official list item by item
 
 ## Get the primary source for each item

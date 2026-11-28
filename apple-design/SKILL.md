@@ -282,3 +282,7 @@ Tactical rules that serve these:
 | Translucent chrome | `backdrop-filter` layer | content scrolls under |
 | Type tracking | Size-specific, never fixed | tighten large text (`-0.02em`), body near `0` |
 | Reduced motion | Cross-fade, not slide/spring | `@media (prefers-reduced-motion)` |
+## Available connectors
+
+Use `muse.connector_search` to find the current connector docs before following
+recovered instructions.

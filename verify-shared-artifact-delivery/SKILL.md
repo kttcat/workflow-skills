@@ -1,8 +1,7 @@
 ---
 name: verify-shared-artifact-delivery
-description: Recount and re-read a shared board, map, or artifact after an edit before reporting its numbers, statuses, and totals.
+description: "Use after editing a shared artifact (file, page, deck) and before reporting it done: re-read the edited source and confirm the change landed."
 ---
-
 # Verify a shared artifact after an edit
 
 ## Re-read the edited source

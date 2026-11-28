@@ -1,8 +1,7 @@
 ---
 name: approval-verification-shared-records
-description: Verify who actually approved what before calling a decision approved or writing it into a shared record, whenever a decision crosses chats, agents, or files.
+description: "Use when a decision crosses chats, agents, or files and must be written into a shared record: verify who actually approved what, in the decider's own words, before calling it approved."
 ---
-
 # Verify Approval Before Shared Records
 
 ## Separate a report from verification

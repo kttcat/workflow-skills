@@ -1,8 +1,7 @@
 ---
 name: verify-interactive-build-by-running-it
-description: Run an interactive build through its real load and interaction paths before delivery, so a first version is not reported working while it is black, stuck, unclickable, or unreadable on the user device.
+description: "Use before delivering any interactive build (page, app, widget): run the real code in three load scenarios (normal, swallowed event, total failure) and confirm it reaches a usable state."
 ---
-
 # Verify an interactive build by running it
 
 ## Run the real code in three load scenarios

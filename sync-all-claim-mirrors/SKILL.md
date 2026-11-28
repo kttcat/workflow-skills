@@ -1,8 +1,7 @@
 ---
 name: sync-all-claim-mirrors
-description: Update every copy of a corrected claim across a file, its notes, its history and its task list before calling the correction complete.
+description: "Use when correcting a claim that appears in more than one place: update every mirror (file, notes, history, task list) in one pass before calling the correction complete."
 ---
-
 # Sync every mirror of a claim
 
 ## List every mirror before you edit

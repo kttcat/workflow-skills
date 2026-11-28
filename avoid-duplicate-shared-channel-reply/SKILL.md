@@ -1,8 +1,7 @@
 ---
 name: avoid-duplicate-shared-channel-reply
-description: Reply once in a shared group channel Muse belongs to by checking just before posting whether another Muse reply already covers the event.
+description: "Use before replying to a shared-channel event (for example a Discord plaza message): check the channel first so two agents don't answer the same event."
 ---
-
 # Avoid a duplicate reply in a shared channel
 
 ## Check the channel before you start

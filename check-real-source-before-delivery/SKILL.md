@@ -1,8 +1,7 @@
 ---
 name: check-real-source-before-delivery
-description: Check a generated image, map, characterisation or roster against its real or settled source before delivering it, so a first version is not drawn from memory or imagination.
+description: "Use before delivering any generated image, map, characterisation, or roster: check it against its real or settled source first."
 ---
-
 # Check the real source before first delivery
 
 ## Find the authoritative source first

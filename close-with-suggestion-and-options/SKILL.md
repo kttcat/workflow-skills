@@ -1,8 +1,7 @@
 ---
 name: close-with-suggestion-and-options
-description: Close every completed work round with a named suggestion and labelled options instead of an open ended question.
+description: "Use at the end of a completed work round that delivers work and needs the user's next decision: close with a named suggestion and labelled options."
 ---
-
 # Close with a suggestion and options
 
 ## Recognise a completed round
